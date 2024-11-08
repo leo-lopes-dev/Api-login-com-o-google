@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
+
+#buttonDivGoogle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
